@@ -24,4 +24,5 @@ To be added upon release.
 To be added upon release.
 
 ## License
+This project is licensed under the [MIT License](LICENSE).
 
